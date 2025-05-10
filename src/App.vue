@@ -3,8 +3,7 @@
     <h1>IronContacts</h1> 
     <button @click="addRandomContact">Add Contact</button>
     <button @click="sortByName">Sort by Name</button>
-    <button @click="sortByPopularity">Sort by Popularity</button>
-
+    <button @click="sortByPopularity">Sort by Popularity</button><br>
     <table>
       <thead>
         <tr>
